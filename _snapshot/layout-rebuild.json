@@ -1,0 +1,413 @@
+{
+ "scroll": {
+  "w": 1440,
+  "h": 2890
+ },
+ "body": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 2890
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "1"
+ },
+ ".Index": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 623
+  },
+  "position": "absolute",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".IndexHeader": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 623
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "300"
+ },
+ ".HeaderBasic": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 444
+  },
+  "position": "relative",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "200"
+ },
+ ".HeaderTop": {
+  "rect": {
+   "x": 6,
+   "y": 2,
+   "w": 1428,
+   "h": 89
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".ausgaben a": {
+  "rect": {
+   "x": 156,
+   "y": -1,
+   "w": 48,
+   "h": 35
+  },
+  "position": "static",
+  "display": "inline",
+  "color": "rgb(255, 255, 255)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".title": {
+  "rect": {
+   "x": 654,
+   "y": 32,
+   "w": 363,
+   "h": 30
+  },
+  "position": "static",
+  "display": "inline-block",
+  "color": "rgb(255, 255, 255)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".menubutton": {
+  "rect": {
+   "x": 1023,
+   "y": 23,
+   "w": 171,
+   "h": 46
+  },
+  "position": "static",
+  "display": "inline-block",
+  "color": "rgb(255, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".logowrap": {
+  "rect": {
+   "x": 6,
+   "y": 91,
+   "w": 1428,
+   "h": 351
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".logo": {
+  "rect": {
+   "x": 6,
+   "y": 91,
+   "w": 1428,
+   "h": 361
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "300"
+ },
+ ".logo svg": {
+  "rect": {
+   "x": 6,
+   "y": 91,
+   "w": 1428,
+   "h": 357
+  },
+  "position": "static",
+  "display": "inline",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ "#shopify-section-AktuelleAusgabe": {
+  "rect": {
+   "x": 0,
+   "y": 447,
+   "w": 1440,
+   "h": 176
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".StartAktuelleAusgabe": {
+  "rect": {
+   "x": 0,
+   "y": 447,
+   "w": 716,
+   "h": 34
+  },
+  "position": "relative",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "100"
+ },
+ ".StartAktuelleAusgabe .text": {
+  "rect": {
+   "x": 6,
+   "y": 455,
+   "w": 704,
+   "h": 0
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(255, 255, 255)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "15px",
+  "fontFamily": "UnionBold",
+  "zIndex": "auto"
+ },
+ ".slideshow": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 900
+  },
+  "position": "relative",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgb(0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".slick-list": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 0
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".StartContentGrid": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 900
+  },
+  "position": "absolute",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "2"
+ },
+ ".StartContentGrid img": null,
+ ".newsletterwrapper": {
+  "rect": {
+   "x": 0,
+   "y": 904,
+   "w": 1440,
+   "h": 40
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "15px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".newsletterinput": {
+  "rect": {
+   "x": 8,
+   "y": 853,
+   "w": 711,
+   "h": 138
+  },
+  "position": "static",
+  "display": "inline-block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "15px",
+  "fontFamily": "UnionBold",
+  "zIndex": "auto"
+ },
+ ".newsletter__submit": {
+  "rect": {
+   "x": 723,
+   "y": 906,
+   "w": 344,
+   "h": 32
+  },
+  "position": "static",
+  "display": "inline-block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "15px",
+  "fontFamily": "UnionBold",
+  "zIndex": "auto"
+ },
+ "#shopify-section-StartCollection": {
+  "rect": {
+   "x": 0,
+   "y": 944,
+   "w": 1440,
+   "h": 1897
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".IndexGrid": {
+  "rect": {
+   "x": 6,
+   "y": 946,
+   "w": 1428,
+   "h": 1889
+  },
+  "position": "static",
+  "display": "inline-block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".IndexItem": {
+  "rect": {
+   "x": 6,
+   "y": 946,
+   "w": 350,
+   "h": 303
+  },
+  "position": "static",
+  "display": "inline-block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".IndexItem img": null,
+ ".ProductCardInfo": {
+  "rect": {
+   "x": 6,
+   "y": 1216,
+   "w": 263,
+   "h": 33
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".footerwrap": {
+  "rect": {
+   "x": 0,
+   "y": 2865,
+   "w": 1440,
+   "h": 25
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ "footer": {
+  "rect": {
+   "x": 0,
+   "y": 2865,
+   "w": 1440,
+   "h": 25
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "15px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
+ ".footermenu a": {
+  "rect": {
+   "x": 98,
+   "y": 2866,
+   "w": 47,
+   "h": 18
+  },
+  "position": "static",
+  "display": "inline",
+  "color": "rgb(255, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "15px",
+  "fontFamily": "UnionBold",
+  "zIndex": "auto"
+ }
+}
