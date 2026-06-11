@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - 'claude/wetter-magazin-rebuild-0ee85s'
+      - main
     paths:
       - 'site/**'
       - '.github/workflows/pages.yml'
