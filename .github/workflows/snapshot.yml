@@ -2,9 +2,6 @@ name: site-snapshot
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - 'claude/wetter-magazin-rebuild-0ee85s'
 
 permissions:
   contents: write
