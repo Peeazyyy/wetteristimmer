@@ -110,10 +110,10 @@
  },
  ".menubutton": {
   "rect": {
-   "x": 1023,
-   "y": 24,
-   "w": 171,
-   "h": 45
+   "x": 1024,
+   "y": 29,
+   "w": 170,
+   "h": 34
   },
   "position": "static",
   "display": "inline-block",
@@ -277,9 +277,9 @@
  ".newsletterinput": {
   "rect": {
    "x": 7,
-   "y": 854,
-   "w": 711,
-   "h": 135
+   "y": 865,
+   "w": 713,
+   "h": 114
   },
   "position": "static",
   "display": "inline-block",

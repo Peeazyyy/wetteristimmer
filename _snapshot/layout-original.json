@@ -110,10 +110,10 @@
  },
  ".menubutton": {
   "rect": {
-   "x": 1024,
-   "y": 30,
+   "x": 1023,
+   "y": 28,
    "w": 170,
-   "h": 33
+   "h": 38
   },
   "position": "static",
   "display": "inline-block",
