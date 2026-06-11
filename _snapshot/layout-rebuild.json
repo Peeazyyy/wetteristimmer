@@ -111,9 +111,9 @@
  ".menubutton": {
   "rect": {
    "x": 1023,
-   "y": 23,
+   "y": 24,
    "w": 171,
-   "h": 46
+   "h": 45
   },
   "position": "static",
   "display": "inline-block",
@@ -226,16 +226,16 @@
   "background": "rgb(0, 0, 0)",
   "fontSize": "29px",
   "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
-  "zIndex": "auto"
+  "zIndex": "0"
  },
  ".slick-list": {
   "rect": {
    "x": 0,
    "y": 0,
    "w": 1440,
-   "h": 0
+   "h": 900
   },
-  "position": "static",
+  "position": "relative",
   "display": "block",
   "color": "rgb(0, 0, 0)",
   "background": "rgba(0, 0, 0, 0)",
@@ -276,10 +276,10 @@
  },
  ".newsletterinput": {
   "rect": {
-   "x": 8,
-   "y": 853,
+   "x": 7,
+   "y": 854,
    "w": 711,
-   "h": 138
+   "h": 135
   },
   "position": "static",
   "display": "inline-block",

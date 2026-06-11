@@ -246,6 +246,13 @@
         "width": 660,
         "height": 971,
         "class": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxNCI+IDxzdHlsZT4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6I0ZGRn0uc3Qxe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6IzA2Rn0uc3Qye2ZpbGw6I0ZGRn0uc3Qze2ZpbGw6IzA2Rn08L3N0eWxlPiA8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNy40IDEyLjhoNi44bDMuMS0xMS42SDcuNEM0LjIgMS4yIDEuNiAzLjggMS42IDdzMi42IDUuOCA1LjggNS44eiIvPiA8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjIuNiAwSDcuNEMzLjUgMCAuNCAzLjEuNCA3czMuMSA3IDcgN2gxNS4yYzMuOSAwIDctMy4xIDctN3MtMy4xLTctNy03ek0xLjYgN2MwLTMuMiAyLjYtNS44IDUuOC01LjhoOS45bC0zLjEgMTEuNkg3LjRDNC4yIDEyLjggMS42IDEwLjIgMS42IDd6Ii8+IDxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0yNC42IDRjLjIuMi4yLjYgMCAuOEwyMi41IDdsMi4yIDIuMmMuMi4yLjIuNiAwIC44LS4yLjItLjYuMi0uOCAwbC0yLjItMi4yTDE5LjUgMTBjLS4yLjItLjYuMi0uOCAwLS4yLS4yLS4yLS42IDAtLjhMMjAuOCA3bC0yLjItMi4yYy0uMi0uMi0uMi0uNiAwLS44LjItLjIuNi0uMi44IDBsMi4yIDIuMkwyMy44IDRjLjItLjIuNi0uMi44IDB6Ii8+IDxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMi43IDQuMWMuMi4yLjMuNi4xLjhMOC42IDkuOGMtLjEuMS0uMi4yLS4zLjItLjIuMS0uNS4xLS43LS4xTDUuNCA3LjdjLS4yLS4yLS4yLS42IDAtLjguMi0uMi42LS4yLjggMEw4IDguNmwzLjgtNC41Yy4yLS4yLjYtLjIuOSAweiIvPiA8L3N2Zz4=",
+        "alt": "California Consumer Privacy Act (CCPA) Opt-Out Icon",
+        "width": 300,
+        "height": 140,
+        "class": "shopify-dns-link-icon"
       }
     ]
   },
@@ -573,6 +580,13 @@
         "width": 691,
         "height": 1024,
         "class": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxNCI+IDxzdHlsZT4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6I0ZGRn0uc3Qxe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6IzA2Rn0uc3Qye2ZpbGw6I0ZGRn0uc3Qze2ZpbGw6IzA2Rn08L3N0eWxlPiA8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNy40IDEyLjhoNi44bDMuMS0xMS42SDcuNEM0LjIgMS4yIDEuNiAzLjggMS42IDdzMi42IDUuOCA1LjggNS44eiIvPiA8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjIuNiAwSDcuNEMzLjUgMCAuNCAzLjEuNCA3czMuMSA3IDcgN2gxNS4yYzMuOSAwIDctMy4xIDctN3MtMy4xLTctNy03ek0xLjYgN2MwLTMuMiAyLjYtNS44IDUuOC01LjhoOS45bC0zLjEgMTEuNkg3LjRDNC4yIDEyLjggMS42IDEwLjIgMS42IDd6Ii8+IDxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0yNC42IDRjLjIuMi4yLjYgMCAuOEwyMi41IDdsMi4yIDIuMmMuMi4yLjIuNiAwIC44LS4yLjItLjYuMi0uOCAwbC0yLjItMi4yTDE5LjUgMTBjLS4yLjItLjYuMi0uOCAwLS4yLS4yLS4yLS42IDAtLjhMMjAuOCA3bC0yLjItMi4yYy0uMi0uMi0uMi0uNiAwLS44LjItLjIuNi0uMi44IDBsMi4yIDIuMkwyMy44IDRjLjItLjIuNi0uMi44IDB6Ii8+IDxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMi43IDQuMWMuMi4yLjMuNi4xLjhMOC42IDkuOGMtLjEuMS0uMi4yLS4zLjItLjIuMS0uNS4xLS43LS4xTDUuNCA3LjdjLS4yLS4yLS4yLS42IDAtLjguMi0uMi42LS4yLjggMEw4IDguNmwzLjgtNC41Yy4yLS4yLjYtLjIuOSAweiIvPiA8L3N2Zz4=",
+        "alt": "California Consumer Privacy Act (CCPA) Opt-Out Icon",
+        "width": 300,
+        "height": 140,
+        "class": "shopify-dns-link-icon"
       }
     ]
   },
@@ -592,6 +606,13 @@
         "width": 1200,
         "height": 1600,
         "class": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxNCI+IDxzdHlsZT4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6I0ZGRn0uc3Qxe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6IzA2Rn0uc3Qye2ZpbGw6I0ZGRn0uc3Qze2ZpbGw6IzA2Rn08L3N0eWxlPiA8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNy40IDEyLjhoNi44bDMuMS0xMS42SDcuNEM0LjIgMS4yIDEuNiAzLjggMS42IDdzMi42IDUuOCA1LjggNS44eiIvPiA8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjIuNiAwSDcuNEMzLjUgMCAuNCAzLjEuNCA3czMuMSA3IDcgN2gxNS4yYzMuOSAwIDctMy4xIDctN3MtMy4xLTctNy03ek0xLjYgN2MwLTMuMiAyLjYtNS44IDUuOC01LjhoOS45bC0zLjEgMTEuNkg3LjRDNC4yIDEyLjggMS42IDEwLjIgMS42IDd6Ii8+IDxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0yNC42IDRjLjIuMi4yLjYgMCAuOEwyMi41IDdsMi4yIDIuMmMuMi4yLjIuNiAwIC44LS4yLjItLjYuMi0uOCAwbC0yLjItMi4yTDE5LjUgMTBjLS4yLjItLjYuMi0uOCAwLS4yLS4yLS4yLS42IDAtLjhMMjAuOCA3bC0yLjItMi4yYy0uMi0uMi0uMi0uNiAwLS44LjItLjIuNi0uMi44IDBsMi4yIDIuMkwyMy44IDRjLjItLjIuNi0uMi44IDB6Ii8+IDxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMi43IDQuMWMuMi4yLjMuNi4xLjhMOC42IDkuOGMtLjEuMS0uMi4yLS4zLjItLjIuMS0uNS4xLS43LS4xTDUuNCA3LjdjLS4yLS4yLS4yLS42IDAtLjguMi0uMi42LS4yLjggMEw4IDguNmwzLjgtNC41Yy4yLS4yLjYtLjIuOSAweiIvPiA8L3N2Zz4=",
+        "alt": "California Consumer Privacy Act (CCPA) Opt-Out Icon",
+        "width": 300,
+        "height": 140,
+        "class": "shopify-dns-link-icon"
       }
     ]
   }
