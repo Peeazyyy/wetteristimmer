@@ -36,6 +36,37 @@ page.on('response', (res) => {
   if (/\.(woff2?|ttf|otf)(\?|$)/.test(url)) assetUrls.add(url);
 });
 
+// dump geometry + computed styles of key elements for layout comparison
+async function dumpLayout(pg, file) {
+  const data = await pg.evaluate(() => {
+    const sels = [
+      'body', '.Index', '.IndexHeader', '.HeaderBasic', '.HeaderTop',
+      '.ausgaben a', '.title', '.menubutton', '.logowrap', '.logo', '.logo svg',
+      '#shopify-section-AktuelleAusgabe', '.StartAktuelleAusgabe',
+      '.StartAktuelleAusgabe .text', '.slideshow', '.slick-list',
+      '.StartContentGrid', '.StartContentGrid img', '.newsletterwrapper',
+      '.newsletterinput', '.newsletter__submit', '#shopify-section-StartCollection',
+      '.IndexGrid', '.IndexItem', '.IndexItem img', '.ProductCardInfo',
+      '.footerwrap', 'footer', '.footermenu a',
+    ];
+    const out = { scroll: { w: document.documentElement.scrollWidth, h: document.documentElement.scrollHeight } };
+    for (const s of sels) {
+      const el = document.querySelector(s);
+      if (!el) { out[s] = null; continue; }
+      const r = el.getBoundingClientRect();
+      const c = getComputedStyle(el);
+      out[s] = {
+        rect: { x: Math.round(r.x), y: Math.round(r.y + scrollY), w: Math.round(r.width), h: Math.round(r.height) },
+        position: c.position, display: c.display, color: c.color,
+        background: c.backgroundColor, fontSize: c.fontSize, fontFamily: c.fontFamily.slice(0, 40),
+        zIndex: c.zIndex,
+      };
+    }
+    return out;
+  });
+  fs.writeFileSync(file, JSON.stringify(data, null, 1));
+}
+
 const imageReport = [];
 for (const [name, p] of PAGES) {
   try {
@@ -59,6 +90,7 @@ for (const [name, p] of PAGES) {
     path: path.join(OUT, 'shots', `original-${name}.png`),
     fullPage: true,
   });
+  if (name === 'home') await dumpLayout(page, path.join(OUT, 'layout-original.json'));
 
   const imgs = await page.evaluate(() =>
     [...document.querySelectorAll('img')].map((i) => ({
@@ -134,6 +166,7 @@ if (fs.existsSync('site/index.html')) {
       path: path.join(OUT, 'shots', `rebuild-${name}.png`),
       fullPage: true,
     });
+    if (name === 'home') await dumpLayout(rp, path.join(OUT, 'layout-rebuild.json'));
     await rp.close();
   }
   server.close();
