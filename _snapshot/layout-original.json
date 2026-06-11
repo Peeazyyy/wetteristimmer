@@ -111,9 +111,9 @@
  ".menubutton": {
   "rect": {
    "x": 1024,
-   "y": 29,
-   "w": 170,
-   "h": 35
+   "y": 32,
+   "w": 169,
+   "h": 30
   },
   "position": "static",
   "display": "inline-block",
@@ -291,9 +291,9 @@
  ".newsletterinput": {
   "rect": {
    "x": 6,
-   "y": 895,
-   "w": 715,
-   "h": 55
+   "y": 906,
+   "w": 714,
+   "h": 32
   },
   "position": "static",
   "display": "inline-block",

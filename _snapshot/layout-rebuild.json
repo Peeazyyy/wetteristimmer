@@ -110,10 +110,10 @@
  },
  ".menubutton": {
   "rect": {
-   "x": 1024,
-   "y": 30,
-   "w": 170,
-   "h": 33
+   "x": 1023,
+   "y": 23,
+   "w": 171,
+   "h": 46
   },
   "position": "static",
   "display": "inline-block",
@@ -256,9 +256,23 @@
   "background": "rgba(0, 0, 0, 0)",
   "fontSize": "29px",
   "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
-  "zIndex": "2"
+  "zIndex": "1"
  },
- ".StartContentGrid img": null,
+ ".StartContentGrid img": {
+  "rect": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 900
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgb(0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
  ".newsletterwrapper": {
   "rect": {
    "x": 0,
@@ -276,10 +290,10 @@
  },
  ".newsletterinput": {
   "rect": {
-   "x": 6,
-   "y": 878,
-   "w": 714,
-   "h": 88
+   "x": 8,
+   "y": 853,
+   "w": 711,
+   "h": 138
   },
   "position": "static",
   "display": "inline-block",
@@ -349,7 +363,21 @@
   "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
   "zIndex": "auto"
  },
- ".IndexItem img": null,
+ ".IndexItem img": {
+  "rect": {
+   "x": 6,
+   "y": 946,
+   "w": 180,
+   "h": 270
+  },
+  "position": "static",
+  "display": "block",
+  "color": "rgb(0, 0, 0)",
+  "background": "rgba(0, 0, 0, 0)",
+  "fontSize": "29px",
+  "fontFamily": "UnionRegular, Helvetica, Arial, sans-ser",
+  "zIndex": "auto"
+ },
  ".ProductCardInfo": {
   "rect": {
    "x": 6,
