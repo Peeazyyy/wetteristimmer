@@ -29,6 +29,9 @@ jobs:
           npm i playwright >/dev/null
           npx playwright install --with-deps chromium
 
+      - name: Fetch generated images
+        run: test -f scripts/generated-images.json && node scripts/fetch-generated.mjs || echo "no generated images"
+
       - name: Capture site snapshot
         run: node scripts/snapshot.mjs
 
@@ -36,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A _snapshot
+          git add -A _snapshot site/assets/img
           git commit -m "chore: update site snapshot" || echo "nothing to commit"
           git pull --rebase origin "${GITHUB_REF_NAME}" || true
           git push origin "HEAD:${GITHUB_REF_NAME}"
