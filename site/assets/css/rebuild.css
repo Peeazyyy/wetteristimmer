@@ -2,7 +2,8 @@
    image placeholders until the real images are generated. */
 
 /* slideshow: in-flow, full viewport, slides stacked + fading like slick */
-.slideshow{position:relative;width:100vw;height:100vh;overflow:hidden;background:#000}
+.slideshow{position:relative;width:100vw;height:100vh;overflow:hidden;background:#000;z-index:0}
+.slideshow .slick-list{position:relative;height:100%}
 .slideshow .StartContentGrid{position:absolute;inset:0;opacity:0;transition:opacity .5s;z-index:1}
 .slideshow .StartContentGrid.slick-current{opacity:1;z-index:2}
 .slideshow .StartContentGrid img,
@@ -11,8 +12,9 @@
 /* image placeholders (no images yet) */
 .img-ph{display:block;background:#d8d8d8;position:relative;overflow:hidden}
 .img-ph::after{content:attr(data-label);position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:8px;font-family:UnionBold,Helvetica,Arial,sans-serif;font-size:11px;line-height:1.2;color:#8a8a8a}
-.slideshow .img-ph{background:linear-gradient(160deg,#2b2b2b,#4a4a4a)}
-.slideshow .img-ph::after{color:#9a9a9a;font-size:13px}
+/* the real slides are bright studio shots – use a light placeholder */
+.slideshow .img-ph{background:linear-gradient(160deg,#f2f0ee,#dcd9d6)}
+.slideshow .img-ph::after{color:#b0aca8;font-size:13px}
 
 /* grid placeholders behave like .IndexGrid img (height:270px;width:auto) */
 .IndexGrid .img-ph{height:270px}
