@@ -1,0 +1,619 @@
+[
+  {
+    "page": "home",
+    "images": [
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_3813_81f5c94e-8521-4050-9c6b-bcc40e38bd0c_1024x1024.jpg?v=1780924595",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_385_5929b1d7-26fc-46a6-b4a3-2804922924d0_1024x1024.jpg?v=1780924717",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_38_1024x1024.jpg?v=1780923973",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_7_1024x1024.jpg?v=1780932350",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_384_1024x1024.jpg?v=1780923976",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_389_1024x1024.jpg?v=1780923973",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_386_fec55b1a-1709-4f0e-b547-e4fe2edd03b2_1024x1024.jpg?v=1780924801",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_3812_1024x1024.jpg?v=1780923973",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_382_1024x1024.jpg?v=1780923975",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_387_1024x1024.jpg?v=1780923975",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_3810_1024x1024.jpg?v=1780923973",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_383_1024x1024.jpg?v=1780923976",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_3811_1024x1024.jpg?v=1780923970",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_388_cf5f7b57-816d-47d6-8784-6df57f8258f5_1024x1024.jpg?v=1780924695",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Slides_1920x1080px_38136_1024x1024.jpg?v=1780932871",
+        "alt": "",
+        "width": 1024,
+        "height": 576,
+        "class": "imageshadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web4_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter #38",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/AF8F8F1B-029C-4582-A316-0CEE0E03A1DC_1024x1024.jpg?v=1763277520",
+        "alt": "Das Wetter #37",
+        "width": 690,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/250519_Wetter_36_12xES_RZ_1024x1024.jpg?v=1776783334",
+        "alt": "Das Wetter #36",
+        "width": 759,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_34-016_1024x1024.png?v=1763281102",
+        "alt": "Das Wetter #34",
+        "width": 759,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web2_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter Abo (Deutschland)",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web2_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter-Abo (Deutschland) ab Ausgabe #37 oder #38 inklusive Bauchtasche",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web2_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter-Abo ab Ausgabe #37 oder #38 + T-Shirt Classic in schwarz",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web2_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter Abo Deutschland ab Ausgabe # 37 oder #38 + „EKNBW Cap“ Schwarz oder grün",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Das_Wetter_Hoodie_blau_1024x1024.jpg?v=1775546631",
+        "alt": "Das Wetter-Hoodie »Classic«",
+        "width": 595,
+        "height": 595,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/MOON_BAG_large_back_DAS_WETTER_black_1024x1024.jpg?v=1762258091",
+        "alt": "DAS WETTER X GOTBAG (Bauchtasche)",
+        "width": 1024,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/FullSizeRender_d3f06a5b-ed00-48e4-900d-4d2d0584cacc_1024x1024.jpg?v=1772024219",
+        "alt": "Das Wetter-Shirt »Classic« (Pink/ Rot)",
+        "width": 1024,
+        "height": 1002,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Classic_WATC_OVERSIZED_Black_1024x1024.jpg?v=1772024472",
+        "alt": "Das Wetter-Shirt »Classic« (Schwarz)",
+        "width": 1024,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/image_7660de3b-964a-4623-b4bb-c253e2ee6d9f_1024x1024.jpg?v=1772024336",
+        "alt": "Das Wetter-Shirt »Classic« (Weiß)",
+        "width": 1024,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/459DEA7D-D2E8-401E-9A59-318B55964AF9_1024x1024.jpg?v=1770884846",
+        "alt": "Das Wetter-Cap »Logo«",
+        "width": 1024,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/F78810DE-EA08-43D5-AAB8-D51D0D446479_1024x1024.jpg?v=1769760918",
+        "alt": "Das Wetter-Cap »Es kann nur besser werden«",
+        "width": 768,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/251112_Wetter-37-Cover-Mockups-22_1024x1024.jpg?v=1775822230",
+        "alt": "Bundle: Das Wetter #37 und #36",
+        "width": 819,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/9783546101110_1024x1024.jpg?v=1748408878",
+        "alt": "Palo Santo  – ein Roman von Sascha Ehlert",
+        "width": 624,
+        "height": 1024,
+        "class": "BookShadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/image_606fc652-b676-4170-bdf1-dc7c742d5558_1024x1024.jpg?v=1718036456",
+        "alt": "Das Wetter – Buch für Text und Musik",
+        "width": 738,
+        "height": 1024,
+        "class": "BookShadow"
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_33_1_1024x1024.jpg?v=1718022801",
+        "alt": "Das Wetter #33",
+        "width": 659,
+        "height": 973,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_327_1024x1024.png?v=1718023079",
+        "alt": "Das Wetter #32",
+        "width": 660,
+        "height": 971,
+        "class": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxNCI+IDxzdHlsZT4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6I0ZGRn0uc3Qxe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6IzA2Rn0uc3Qye2ZpbGw6I0ZGRn0uc3Qze2ZpbGw6IzA2Rn08L3N0eWxlPiA8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNy40IDEyLjhoNi44bDMuMS0xMS42SDcuNEM0LjIgMS4yIDEuNiAzLjggMS42IDdzMi42IDUuOCA1LjggNS44eiIvPiA8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjIuNiAwSDcuNEMzLjUgMCAuNCAzLjEuNCA3czMuMSA3IDcgN2gxNS4yYzMuOSAwIDctMy4xIDctN3MtMy4xLTctNy03ek0xLjYgN2MwLTMuMiAyLjYtNS44IDUuOC01LjhoOS45bC0zLjEgMTEuNkg3LjRDNC4yIDEyLjggMS42IDEwLjIgMS42IDd6Ii8+IDxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0yNC42IDRjLjIuMi4yLjYgMCAuOEwyMi41IDdsMi4yIDIuMmMuMi4yLjIuNiAwIC44LS4yLjItLjYuMi0uOCAwbC0yLjItMi4yTDE5LjUgMTBjLS4yLjItLjYuMi0uOCAwLS4yLS4yLS4yLS42IDAtLjhMMjAuOCA3bC0yLjItMi4yYy0uMi0uMi0uMi0uNiAwLS44LjItLjIuNi0uMi44IDBsMi4yIDIuMkwyMy44IDRjLjItLjIuNi0uMi44IDB6Ii8+IDxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMi43IDQuMWMuMi4yLjMuNi4xLjhMOC42IDkuOGMtLjEuMS0uMi4yLS4zLjItLjIuMS0uNS4xLS43LS4xTDUuNCA3LjdjLS4yLS4yLS4yLS42IDAtLjguMi0uMi42LS4yLjggMEw4IDguNmwzLjgtNC41Yy4yLS4yLjYtLjIuOSAweiIvPiA8L3N2Zz4=",
+        "alt": "California Consumer Privacy Act (CCPA) Opt-Out Icon",
+        "width": 300,
+        "height": 140,
+        "class": "shopify-dns-link-icon"
+      }
+    ]
+  },
+  {
+    "page": "hefte",
+    "images": [
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/251112_Wetter-37-Cover-Mockups-22_1024x1024.jpg?v=1775822230",
+        "alt": "Bundle: Das Wetter #37 und #36",
+        "width": 819,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_34-016_1024x1024.png?v=1763281102",
+        "alt": "Bundle: Das Wetter #33 + #34",
+        "width": 759,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_34-016_1024x1024.png?v=1763281102",
+        "alt": "Das Wetter #34",
+        "width": 759,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_33_1_1024x1024.jpg?v=1718022801",
+        "alt": "Das Wetter #33",
+        "width": 659,
+        "height": 973,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_33_1_1024x1024.jpg?v=1718022801",
+        "alt": "Bundle: Das Wetter #32& #33",
+        "width": 659,
+        "height": 973,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_327_1024x1024.png?v=1718023079",
+        "alt": "Das Wetter #32",
+        "width": 660,
+        "height": 971,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_Cover_31_02Large_1024x1024.jpg?v=1718023312",
+        "alt": "Das Wetter #31",
+        "width": 696,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/image_d2ca77f8-6f09-436b-8b7a-d62a19671a07_1024x1024.jpg?v=1718027709",
+        "alt": "Das Wetter #030",
+        "width": 696,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/image_ffc4ec48-112b-448e-98ee-b7cc17d78a38_1024x1024.jpg?v=1718023786",
+        "alt": "Das Wetter #29",
+        "width": 697,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover28_Billie_S_3c5f3d71-e4ee-4d6a-97c3-461ff49d6206_1024x1024.jpg?v=1718024514",
+        "alt": "Das Wetter #28",
+        "width": 695,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/image_c97112be-b702-460c-be7b-30f1293304eb_1024x1024.jpg?v=1718023862",
+        "alt": "Bundle: Das Wetter #29 & #28",
+        "width": 699,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_4_1024x1024.jpg?v=1718027661",
+        "alt": "Bundle: Das Wetter #4 + #5",
+        "width": 869,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_3211_1024x1024_f86037b9-bde4-4fa9-97de-470970720f68_1024x1024.jpg?v=1718024587",
+        "alt": "Das Wetter #27",
+        "width": 611,
+        "height": 774,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Cover_Caspar_schwarz_1024x1024.jpg?v=1718024913",
+        "alt": "Das Wetter #26",
+        "width": 814,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/image_446b918a-57c5-41e4-867f-aad9f6456ac7_1024x1024.jpg?v=1718025174",
+        "alt": "Das Wetter #25",
+        "width": 813,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover-4_weiss_1024x1024.jpg?v=1718025351",
+        "alt": "Das Wetter #24",
+        "width": 811,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/image_e5a7b190-d637-4285-96e1-346f5b875859_1024x1024.jpg?v=1718025531",
+        "alt": "Das Wetter #23",
+        "width": 812,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/image_afec3028-8018-47d9-bda5-c2c48e30b641_1024x1024.jpg?v=1718026267",
+        "alt": "Das Wetter #22",
+        "width": 813,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_20a_1024x1024.jpg?v=1718026545",
+        "alt": "Das Wetter #20 (PDF)",
+        "width": 812,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/heft-19d_1024x1024.jpg?v=1718026982",
+        "alt": "Das Wetter #19 (PDF)",
+        "width": 811,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_18_neu_1024x1024.jpg?v=1718027018",
+        "alt": "Das Wetter #18 (PDF)",
+        "width": 813,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Covdr3_1024x1024.jpg?v=1718026500",
+        "alt": "Das Wetter #21 (PDF)",
+        "width": 813,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_17_2_1024x1024.jpg?v=1718027058",
+        "alt": "Das Wetter #17",
+        "width": 811,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/webseite_1024x1024.jpg?v=1718027099",
+        "alt": "Das Wetter #16 (PDF)",
+        "width": 813,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_15_1_1024x1024.jpg?v=1718027168",
+        "alt": "Das Wetter #15",
+        "width": 811,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_14_1024x1024.jpg?v=1718027222",
+        "alt": "Das Wetter #14 (PDF)",
+        "width": 813,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_13_1_1024x1024.jpg?v=1718027294",
+        "alt": "Das Wetter #13 (PDF)",
+        "width": 813,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_12_1_1024x1024.jpg?v=1718027388",
+        "alt": "Das Wetter #12 (PDF)",
+        "width": 810,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_11_1024x1024.jpg?v=1718027449",
+        "alt": "Das Wetter #11 (PDF)",
+        "width": 812,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Heft_10_2_1024x1024.jpg?v=1718027520",
+        "alt": "Das Wetter #10",
+        "width": 867,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/9t_1024x1024.jpg?v=1718026715",
+        "alt": "Das Wetter #9",
+        "width": 866,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Heft_8_1024x1024.jpg?v=1718026756",
+        "alt": "Das Wetter #8",
+        "width": 866,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/7_1024x1024.jpg?v=1718028424",
+        "alt": "Das Wetter #7",
+        "width": 866,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_altes_Format_5f6b0104-6963-422d-972e-c4d724081e30_1024x1024.jpg?v=1718028376",
+        "alt": "Das Wetter #6",
+        "width": 865,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_altes_Format_1024x1024.jpg?v=1718027610",
+        "alt": "Das Wetter #05",
+        "width": 867,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_4_1024x1024.jpg?v=1718027661",
+        "alt": "Das Wetter #04",
+        "width": 869,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_3_1024x1024.jpg?v=1718028212",
+        "alt": "Das Wetter #03",
+        "width": 867,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_2_1024x1024.jpg?v=1718026584",
+        "alt": "Das Wetter #02",
+        "width": 865,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/products/Cover_1_1024x1024.jpg?v=1718028246",
+        "alt": "Das Wetter #01",
+        "width": 867,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/Wetter_035_2_1024x1024.jpg?v=1731586469",
+        "alt": "Das Wetter #35",
+        "width": 759,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/250519_Wetter_36_12xES_RZ_1024x1024.jpg?v=1776783334",
+        "alt": "Das Wetter #36",
+        "width": 759,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web2_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter-Abo ab Ausgabe #37 oder #38 + T-Shirt Classic in schwarz",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/IMG_7528_1024x1024.heic?v=1749563029",
+        "alt": "Das Wetter #37 plus: Performing Exiles - Die Cap (Limited Edition)",
+        "width": 768,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/AF8F8F1B-029C-4582-A316-0CEE0E03A1DC_1024x1024.jpg?v=1763277520",
+        "alt": "Das Wetter #37",
+        "width": 690,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web2_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter Abo Deutschland ab Ausgabe # 37 oder #38 + „EKNBW Cap“ Schwarz oder grün",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "https://wetter-magazin.com/cdn/shop/files/260605_Wetter38_Cover_web4_1024x1024.jpg?v=1780919183",
+        "alt": "Das Wetter #38",
+        "width": 691,
+        "height": 1024,
+        "class": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxNCI+IDxzdHlsZT4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6I0ZGRn0uc3Qxe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6IzA2Rn0uc3Qye2ZpbGw6I0ZGRn0uc3Qze2ZpbGw6IzA2Rn08L3N0eWxlPiA8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNy40IDEyLjhoNi44bDMuMS0xMS42SDcuNEM0LjIgMS4yIDEuNiAzLjggMS42IDdzMi42IDUuOCA1LjggNS44eiIvPiA8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjIuNiAwSDcuNEMzLjUgMCAuNCAzLjEuNCA3czMuMSA3IDcgN2gxNS4yYzMuOSAwIDctMy4xIDctN3MtMy4xLTctNy03ek0xLjYgN2MwLTMuMiAyLjYtNS44IDUuOC01LjhoOS45bC0zLjEgMTEuNkg3LjRDNC4yIDEyLjggMS42IDEwLjIgMS42IDd6Ii8+IDxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0yNC42IDRjLjIuMi4yLjYgMCAuOEwyMi41IDdsMi4yIDIuMmMuMi4yLjIuNiAwIC44LS4yLjItLjYuMi0uOCAwbC0yLjItMi4yTDE5LjUgMTBjLS4yLjItLjYuMi0uOCAwLS4yLS4yLS4yLS42IDAtLjhMMjAuOCA3bC0yLjItMi4yYy0uMi0uMi0uMi0uNiAwLS44LjItLjIuNi0uMi44IDBsMi4yIDIuMkwyMy44IDRjLjItLjIuNi0uMi44IDB6Ii8+IDxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMi43IDQuMWMuMi4yLjMuNi4xLjhMOC42IDkuOGMtLjEuMS0uMi4yLS4zLjItLjIuMS0uNS4xLS43LS4xTDUuNCA3LjdjLS4yLS4yLS4yLS42IDAtLjguMi0uMi42LS4yLjggMEw4IDguNmwzLjgtNC41Yy4yLS4yLjYtLjIuOSAweiIvPiA8L3N2Zz4=",
+        "alt": "California Consumer Privacy Act (CCPA) Opt-Out Icon",
+        "width": 300,
+        "height": 140,
+        "class": "shopify-dns-link-icon"
+      }
+    ]
+  },
+  {
+    "page": "about",
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0291/5860/4938/files/Unknown-5.jpg?v=1711021937",
+        "alt": "",
+        "width": 900,
+        "height": 1600,
+        "class": ""
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0291/5860/4938/files/Unknown-1.jpg?v=1711021939",
+        "alt": "",
+        "width": 1200,
+        "height": 1600,
+        "class": ""
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAxNCI+IDxzdHlsZT4uc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6I0ZGRn0uc3Qxe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6IzA2Rn0uc3Qye2ZpbGw6I0ZGRn0uc3Qze2ZpbGw6IzA2Rn08L3N0eWxlPiA8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNy40IDEyLjhoNi44bDMuMS0xMS42SDcuNEM0LjIgMS4yIDEuNiAzLjggMS42IDdzMi42IDUuOCA1LjggNS44eiIvPiA8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjIuNiAwSDcuNEMzLjUgMCAuNCAzLjEuNCA3czMuMSA3IDcgN2gxNS4yYzMuOSAwIDctMy4xIDctN3MtMy4xLTctNy03ek0xLjYgN2MwLTMuMiAyLjYtNS44IDUuOC01LjhoOS45bC0zLjEgMTEuNkg3LjRDNC4yIDEyLjggMS42IDEwLjIgMS42IDd6Ii8+IDxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0yNC42IDRjLjIuMi4yLjYgMCAuOEwyMi41IDdsMi4yIDIuMmMuMi4yLjIuNiAwIC44LS4yLjItLjYuMi0uOCAwbC0yLjItMi4yTDE5LjUgMTBjLS4yLjItLjYuMi0uOCAwLS4yLS4yLS4yLS42IDAtLjhMMjAuOCA3bC0yLjItMi4yYy0uMi0uMi0uMi0uNiAwLS44LjItLjIuNi0uMi44IDBsMi4yIDIuMkwyMy44IDRjLjItLjIuNi0uMi44IDB6Ii8+IDxwYXRoIGNsYXNzPSJzdDMiIGQ9Ik0xMi43IDQuMWMuMi4yLjMuNi4xLjhMOC42IDkuOGMtLjEuMS0uMi4yLS4zLjItLjIuMS0uNS4xLS43LS4xTDUuNCA3LjdjLS4yLS4yLS4yLS42IDAtLjguMi0uMi42LS4yLjggMEw4IDguNmwzLjgtNC41Yy4yLS4yLjYtLjIuOSAweiIvPiA8L3N2Zz4=",
+        "alt": "California Consumer Privacy Act (CCPA) Opt-Out Icon",
+        "width": 300,
+        "height": 140,
+        "class": "shopify-dns-link-icon"
+      }
+    ]
+  }
+]
