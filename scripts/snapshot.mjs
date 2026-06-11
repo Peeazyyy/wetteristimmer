@@ -105,6 +105,25 @@ for (const [name, p] of PAGES) {
 }
 fs.writeFileSync(path.join(OUT, 'images.json'), JSON.stringify(imageReport, null, 2));
 
+// download every referenced image so the originals can be reviewed offline
+fs.mkdirSync(path.join(OUT, 'images'), { recursive: true });
+const seen = new Set();
+for (const pg of imageReport) {
+  for (const im of pg.images) {
+    if (!im.src || im.src.startsWith('data:')) continue;
+    const u = im.src.startsWith('//') ? 'https:' + im.src : im.src;
+    const fn = (u.split('/').pop() || 'img').split('?')[0].slice(0, 120);
+    if (seen.has(fn)) continue;
+    seen.add(fn);
+    try {
+      const resp = await ctx.request.get(u);
+      fs.writeFileSync(path.join(OUT, 'images', fn), Buffer.from(await resp.body()));
+    } catch (e) {
+      console.log(`image ${u}: ${e.message}`);
+    }
+  }
+}
+
 // download stylesheets / fonts seen on the network
 for (const u of assetUrls) {
   try {
