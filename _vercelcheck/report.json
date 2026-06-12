@@ -1,0 +1,24 @@
+{
+  "url": "https://wetteristimmer.vercel.app/",
+  "checkedAt": "2026-06-12T00:00:36.631Z",
+  "mainStatus": 404,
+  "gotoError": null,
+  "title": "404: NOT_FOUND",
+  "totalImages": 0,
+  "brokenImageCount": 0,
+  "brokenImages": [],
+  "failedRequests": [],
+  "httpErrorResponses": [
+    {
+      "url": "https://wetteristimmer.vercel.app/",
+      "status": 404
+    }
+  ],
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "trackingScriptsPresent": {
+    "webAnalytics": false,
+    "speedInsights": false
+  }
+}
