@@ -1,0 +1,35 @@
+name: http
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'URL to request'
+        required: true
+      method:
+        description: 'HTTP method'
+        required: false
+        default: 'GET'
+      data:
+        description: 'Optional request body (JSON)'
+        required: false
+        default: ''
+
+jobs:
+  request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Make request
+        run: |
+          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36"
+          if [ "${{ github.event.inputs.method }}" = "POST" ]; then
+            echo "POST ${{ github.event.inputs.url }}"
+            curl -sS -L -A "$UA" -X POST \
+              -H "Content-Type: application/json" -H "Accept: application/json" \
+              --data '${{ github.event.inputs.data }}' \
+              -w "\n---HTTP %{http_code}---\n" \
+              "${{ github.event.inputs.url }}"
+          else
+            echo "GET ${{ github.event.inputs.url }}"
+            curl -sS -L -A "$UA" -w "\n---HTTP %{http_code}---\n" "${{ github.event.inputs.url }}"
+          fi
