@@ -21,12 +21,12 @@ die `vercel.json` im Root ignoriert, die Seite funktioniert aber trotzdem.
 - Die GitHub-Pages-Dateien `site/CNAME` und `site/.nojekyll` stören Vercel nicht,
   werden aber nicht gebraucht — bei Bedarf entfernbar.
 
-## Tracking (Web Analytics + Speed Insights)
-Die Tracking-Scripts sind bereits in `site/index.html` eingebunden
-(`/_vercel/insights/script.js` und `/_vercel/speed-insights/script.js`).
-Sie liefern erst Daten, sobald es im Vercel-Dashboard aktiviert ist:
-1. Project → **Analytics** → *Enable* (Web Analytics)
-2. Project → **Speed Insights** → *Enable*
+## Tracking (Web Analytics)
+Das Web-Analytics-Script ist in `site/index.html` eingebunden
+(`/_vercel/insights/script.js`). Es liefert Daten, sobald im Vercel-Dashboard
+aktiviert: Project → **Analytics** → *Enable*. Danach stellt Vercel die Route
+automatisch bereit.
 
-Danach werden die `/_vercel/*`-Routen automatisch von Vercel bereitgestellt
-und die bereits eingebauten Scripts beginnen zu senden.
+Speed Insights ist im Free-Plan nicht verfügbar und daher bewusst nicht
+eingebunden (würde sonst dauerhaft 404 liefern). Bei einem Upgrade kann das
+Snippet `/_vercel/speed-insights/script.js` analog ergänzt werden.
