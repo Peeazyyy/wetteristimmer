@@ -1,0 +1,19 @@
+name: sitemap-check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inspect sitemap on both hosts
+        run: |
+          for U in https://www.wetteristimmer.com/sitemap.xml https://wetteristimmer.com/sitemap.xml; do
+            echo "===================== $U ====================="
+            echo "-- headers --"
+            curl -sSI -k --max-time 25 "$U" 2>&1 | grep -iE 'HTTP/|content-type|server|x-vercel-id|location' || echo "(head failed)"
+            echo "-- first 3 body lines --"
+            curl -sS -k --max-time 25 "$U" 2>&1 | head -3 || echo "(body failed)"
+            echo
+          done
