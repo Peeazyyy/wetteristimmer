@@ -1,0 +1,37 @@
+name: playwright
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'submit | visit'
+        required: false
+        default: 'visit'
+      url:
+        description: 'Target URL'
+        required: false
+        default: 'https://www.wetteristimmer.com/'
+      email:
+        description: 'Email for submit mode'
+        required: false
+        default: 'aktivierung@wetteristimmer.com'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null
+          npm i playwright >/dev/null
+          npx playwright install --with-deps chromium
+      - name: Run
+        env:
+          MODE: ${{ github.event.inputs.mode }}
+          TARGET_URL: ${{ github.event.inputs.url }}
+          EMAIL: ${{ github.event.inputs.email }}
+        run: node scripts/playwright-action.mjs
