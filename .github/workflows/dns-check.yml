@@ -1,0 +1,23 @@
+name: dns-check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: DNS + TLS diagnostics
+        run: |
+          for H in wetteristimmer.com www.wetteristimmer.com; do
+            echo "===================== $H ====================="
+            echo "-- A records --";    dig +short A "$H"    || true
+            echo "-- CNAME --";        dig +short CNAME "$H" || true
+            echo "-- HTTP(S) head --"
+            curl -sSI --max-time 25 "https://$H/" 2>&1 | head -15 || echo "curl failed"
+            echo "-- TLS certificate (subject / issuer / SAN) --"
+            echo | timeout 25 openssl s_client -servername "$H" -connect "$H":443 2>/dev/null \
+              | openssl x509 -noout -subject -issuer -dates -ext subjectAltName 2>/dev/null \
+              || echo "TLS handshake failed for $H"
+            echo
+          done
