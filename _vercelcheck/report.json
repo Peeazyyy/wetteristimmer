@@ -1,28 +1,15 @@
 {
   "url": "https://www.wetteristimmer.com/",
-  "checkedAt": "2026-06-12T00:18:04.969Z",
+  "checkedAt": "2026-06-12T00:24:25.083Z",
   "mainStatus": 200,
   "gotoError": null,
   "title": "Das Wetter - Magazin für Text und Musik (Onlineshop)",
   "totalImages": 35,
   "brokenImageCount": 0,
   "brokenImages": [],
-  "failedRequests": [
-    {
-      "url": "https://www.wetteristimmer.com/_vercel/insights/script.js",
-      "error": "net::ERR_ABORTED"
-    }
-  ],
-  "httpErrorResponses": [
-    {
-      "url": "https://www.wetteristimmer.com/_vercel/insights/script.js",
-      "status": 404
-    }
-  ],
-  "consoleErrors": [
-    "Error: <svg> attribute height: Expected length, \"auto\".",
-    "Failed to load resource: the server responded with a status of 404 ()"
-  ],
+  "failedRequests": [],
+  "httpErrorResponses": [],
+  "consoleErrors": [],
   "trackingScriptsPresent": {
     "webAnalytics": true,
     "speedInsights": true
