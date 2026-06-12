@@ -1,17 +1,17 @@
 {
-  "url": "https://www.wetteristimmer.com/",
-  "checkedAt": "2026-06-12T00:24:25.083Z",
+  "url": "https://www.wetteristimmer.com/zitat",
+  "checkedAt": "2026-06-12T11:34:09.084Z",
   "mainStatus": 200,
   "gotoError": null,
-  "title": "Das Wetter - Magazin für Text und Musik (Onlineshop)",
-  "totalImages": 35,
+  "title": "Das Wetter",
+  "totalImages": 1,
   "brokenImageCount": 0,
   "brokenImages": [],
   "failedRequests": [],
   "httpErrorResponses": [],
   "consoleErrors": [],
   "trackingScriptsPresent": {
-    "webAnalytics": true,
-    "speedInsights": true
+    "webAnalytics": false,
+    "speedInsights": false
   }
 }
